@@ -1,6 +1,6 @@
 # Caltech PGP Capstone Project (Demo Docker App)
 
-### Project hosted on Github Url: https://github.com/usridzero/capstone
+### Project hosted on Github Url: https://github.com/kanlawr2005/Capstone-B-Safe.git
 ### Pre Install
 
 - Create Github repo
